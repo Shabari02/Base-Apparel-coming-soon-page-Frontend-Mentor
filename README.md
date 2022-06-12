@@ -1,5 +1,7 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+# Click <a href="">here</a>
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
