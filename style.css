@@ -151,8 +151,10 @@ button {
     position: absolute;
     top: 50px; 
   }
-  .title {
+  .text-comp .title {
     text-align: center;
+    width: 80%;
+    margin: 0 auto;
   }
   .subtitle {
     padding: 0.5rem;
