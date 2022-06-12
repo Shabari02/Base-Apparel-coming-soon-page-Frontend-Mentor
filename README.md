@@ -1,6 +1,6 @@
 # Frontend Mentor - Base Apparel coming soon page
 
-# Click <a href="">here</a>
+# Click <a href="https://shabari02.github.io/Base-Apparel-coming-soon-page-Frontend-Mentor/">here</a> to view 
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
